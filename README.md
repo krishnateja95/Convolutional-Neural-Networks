@@ -5,7 +5,7 @@ This repository contains "C" implmemntation of AlexNet on Imagenet image and, Co
 Weights and Data are assigned random values inside the respective files 
 
 
-Execution: <br />
+Execution:<br />
 gcc file.c -o net <br />
 ./net
 
