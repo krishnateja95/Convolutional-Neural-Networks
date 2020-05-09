@@ -6,8 +6,6 @@ Weights and Data are assigned random values inside the respective files
 
 
 Execution: <br />
-<br />
-
 gcc file.c -o net <br />
 ./net
 
